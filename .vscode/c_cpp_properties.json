@@ -1,0 +1,29 @@
+{
+        "configurations": [
+                {
+                        "name": "VETRIX",
+                        "includePath": [
+                                "${workspaceFolder}/source/**",
+                                "${workspaceFolder}/source/application/**",
+                                "${workspaceFolder}/source/interface/**",
+                                "${workspaceFolder}/source/implement/**",
+                                "${workspaceFolder}/source/implement/middleware/**",
+                                "${workspaceFolder}/source/implement/middleware/service/**",
+                                "${workspaceFolder}/source/implement/middleware/management/**",
+                                "${workspaceFolder}/source/implement/middleware/database/**",
+                                "${workspaceFolder}/source/implement/platform/**",
+                                "${workspaceFolder}/source/implement/platform/driver/**",
+                                "${workspaceFolder}/source/implement/platform/interrupt/**",
+                                "${workspaceFolder}/source/implement/support/**"
+                        ],
+                        "defines": [
+                                "DEBUG=1",
+                                "RELEASE=0",
+                                "TEST=0"
+                        ],
+                        "compilerPath": "C:\\Program Files (x86)\\mingw64\\bin\\gcc.exe",
+                        "intelliSenseMode": "windows-gcc-x64"
+                }
+        ],
+        "version": 4
+}
