@@ -14,7 +14,8 @@
                                 "${workspaceFolder}/source/implement/platform/**",
                                 "${workspaceFolder}/source/implement/platform/driver/**",
                                 "${workspaceFolder}/source/implement/platform/interrupt/**",
-                                "${workspaceFolder}/source/implement/support/**"
+                                "${workspaceFolder}/source/implement/support/**",
+                                "${workspaceFolder}/source/implement/support/vlibc/**"
                         ],
                         "defines": [
                                 "DEBUG=1",
